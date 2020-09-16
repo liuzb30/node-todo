@@ -1,6 +1,6 @@
 {
   "name": "node-todo-3",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,8 @@
     "t": "./cli.js"
   },
   "files": [
-    "*.js"
+    "*.js",
+    "*.gif"
   ],
   "keywords": [],
   "author": "lzb302009",
